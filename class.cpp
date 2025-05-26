@@ -30,6 +30,5 @@ class Studend {
 
     student1.show();
     student2.show();
-
  }
   

@@ -12,6 +12,7 @@ class Car{
     void park(){
         cout << model << " parked!" << end1;
     }
+    
     void stop(){
         cout << model1 << "stopped!" << end1;
     } 
